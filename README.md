@@ -1,6 +1,6 @@
 - 👋 Hi, I’m is Mohammad Yahya
 - 👀 I’m interested in Programming espically in net core 5 as full backend  
-- 🌱 I’m currently learning Backend stuff using net core 
+- 🌱 I’m currently learning Backend stuff using net core 5 and laravel 8 
 - 💞️ I’m looking to collaborate on to start learning web app security
 - 💻 Skills That I learned:
    - 1️⃣ Ability to create Web Api using net core 5 and by dividing them into layers(Buisness logic,Data Access layer,UniTesting).
