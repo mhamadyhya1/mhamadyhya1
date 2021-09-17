@@ -10,4 +10,4 @@
    - 5️⃣ Hosting Angular App and Web API and docker image in Heroku and firebase.
    - 6️⃣ Having ability to use node JS, NPM, express, webpack and git.
    - 7️⃣ Database (MS SQL) / MySQL
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadyhya1&theme=tokyonight)
+   
