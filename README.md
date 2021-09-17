@@ -25,4 +25,4 @@
 <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"><b> My GitHub Statistics</b>
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhamadyhya1&&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhamadyhya1&show_icons=true&theme=algolia" />
