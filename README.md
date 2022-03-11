@@ -18,7 +18,7 @@
 <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0" target="_blank"><img width="40" height="40" alt=".NET Core Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png"></a> </a>
  <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/> </a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://laravel.com/docs/8.x" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FiTmmTbb_react-js-logo-clipart%2F&psig=AOvVaw3QcOOYXdpGGVv61S9ZFiY1&ust=1647101306141000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLi4_dm4vvYCFQAAAAAdAAAAABAD" alt="ReactJs" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" width="40" height="40"/></a>
 </p>
 <br/>
 <br/>
