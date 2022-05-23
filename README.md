@@ -5,11 +5,12 @@
 - 💻 Skills That I learned:
    - 1️⃣ Ability to create Web Api using net core 5 and by dividing them into layers(Buisness logic,Data Access layer,UniTesting).
    - 2️⃣ Programming Languages: C#, Javascript, TypeScript,PHP
-   - 3️⃣ Knowledge in Angular FrameWork.
+   - 3️⃣ Ability to create  Applications using Angular FrameWork and react JS.
+   - 4️⃣ Create Mobile Applications using React Native and IONIC-Angular.
    - 4️⃣ Ability to Deckorize Web Api backend Project and Angular app 
-   - 5️⃣ Hosting Angular App and Web API and docker image in Heroku and firebase.
+   - 5️⃣ Hosting Angular App and Web API in Heroku and firebase.
    - 6️⃣ Having ability to use node JS, NPM, express, webpack and git.
-   - 7️⃣ Database (MS SQL) / MySQL
+   - 7️⃣ Database (MS SQL) / MySQL  and NOSQL like MongoDB.
 
 <!-- Languages and tools -->
 <h3 align="left">Languages and Tools:</h3>
