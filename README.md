@@ -1,17 +1,3 @@
-- 👋 Hi, I’m is Mohammad Yahya
-- 👀 I’m interested in Programming espically in net core 5 as full backend  
-- 🌱 I’m currently learning Backend stuff using net core 5 and laravel 8 
-- 💞️ I’m looking to collaborate on to start learning web app security
-- 💻 Skills That I learned:
-   - 1️⃣ Ability to create Web Api using net core 5 and by dividing them into layers(Buisness logic,Data Access layer,UniTesting).
-   - 2️⃣ Programming Languages: Javascript, TypeScript
-   - 3️⃣ Ability to create  Applications using Angular FrameWork and react JS.
-   - 4️⃣ Create Mobile Applications using React Native and IONIC-Angular.
-   - 4️⃣ Ability to Deckorize Web Api backend Project and Angular app 
-   - 5️⃣ Hosting Angular App and Web API in Heroku and firebase.
-   - 6️⃣ Having ability to use node JS, NPM, express, webpack and git.
-   - 7️⃣ Database (MS SQL) / MySQL  and NOSQL like MongoDB.
-
 <!-- Languages and tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
