@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on to start learning web app security
 - 💻 Skills That I learned:
    - 1️⃣ Ability to create Web Api using net core 5 and by dividing them into layers(Buisness logic,Data Access layer,UniTesting).
-   - 2️⃣ Programming Languages: C#, Javascript, TypeScript,PHP
+   - 2️⃣ Programming Languages: Javascript, TypeScript
    - 3️⃣ Ability to create  Applications using Angular FrameWork and react JS.
    - 4️⃣ Create Mobile Applications using React Native and IONIC-Angular.
    - 4️⃣ Ability to Deckorize Web Api backend Project and Angular app 
