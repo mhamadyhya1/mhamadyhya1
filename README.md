@@ -8,7 +8,4 @@
 ![mhamadyhya1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhamadyhya1&theme=dracula&hide_border=true)
 ![mhamadyhya1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamadyhya1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=mhamadyhya1&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
